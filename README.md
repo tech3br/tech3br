@@ -10,7 +10,7 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://github.com/tech3br/tech3br/blob/main/github_cardPrancheta%201@4x.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am 25 years old. I am ** `Developer` ** with experience in front-end but with knowledge in backend, design, UI / UX and database. I do apps and websites to make life easier in the world. 😉
+I am 25 years old. I am `Developer` with experience in `frontend` but with knowledge in `backend, design, UI / UX and database`. I do apps and websites to make life easier in the world. 😉
 
 Working at [Compasso UOL](https://compassouol.com) as a Frontend Software Developer. 💼
 
