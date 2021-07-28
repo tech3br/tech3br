@@ -20,7 +20,7 @@ I am also starting my studies in UX / UI. I believe the fusion between Design Th
 
  👨‍💻 I'm currently working an great web project 👨‍⚕️📱[**E-Commerce of Games**](https://github.com/tech3br/won_games)
  
- 🚀 I’m currently learning <img src="https://img.shields.io/static/v1?label=NextJS&message=NextJS&color=lightgrey">.(https://https://nextjs.org)
+ 🚀 I’m currently learning <img src="https://img.shields.io/static/v1?label=NextJS&message=NextJS&color=lightgrey">.(https://nextjs.org)
  
  📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
 
