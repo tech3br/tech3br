@@ -12,7 +12,7 @@ Hope you ❤️ the repo. Don't forget to follow.
 
 I am 25 years old. I am `Developer` with experience in `frontend` but with knowledge in `backend, design, UI / UX and database`. I do apps and websites to make life easier in the world. 😉
 
-Working at [Compasso UOL] (https://compassouol.com) as a Software Developer allocated to the client [Terra Investimentos] (https://www.terrainvestimentos.com.br) as a frontend 💼
+Working at [**Compasso UOL**](https://compassouol.com) as a Software Developer allocated to the client [**Terra Investimentos**](https://www.terrainvestimentos.com.br) as a frontend 💼
 
 I am very interested in 🤝 collaborating with other people and enabling others to create digital solutions that solve real-world problems 🌍. 
 
