@@ -10,19 +10,21 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://github.com/tech3br/tech3br/blob/main/github_cardPrancheta%201@4x.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am 25 years old. I am `Developer` with experience in `frontend` but with knowledge in `backend, design, UI / UX and database`. I do apps and websites to make life easier in the world. 😉
+I am 25 years old. I am `Developer` with experience in `frontend` but with knowledge in `backend, design, UI / UX and database`. 
+
+I do apps and websites to `make life easier in the world.` 😉
 
 Working at [**Compasso UOL**](https://compassouol.com) as a Software Developer allocated to the client [**Terra Investimentos**](https://www.terrainvestimentos.com.br) as a frontend 💼
 
-I am very interested in 🤝 collaborating with other people and enabling others to create digital solutions that solve real-world problems 🌍. 
+I am very interested in 🤝 collaborating with other people and enabling others to create digital solutions that solve real-world problems. 🌍
 
 I am also starting my studies in UX / UI. I believe the fusion between Design Thinking and Digital Technologies will lead to the construction of solutions centered on the user that are impactful for the improvement of society.
 
- 👨‍💻 I'm currently working an great web project 👨‍⚕️📱[**E-Commerce of Games**](https://github.com/tech3br/won_games)
+I'm currently working an great web project [**E-Commerce of Games**](https://github.com/tech3br/won_games) 👨‍💻 
  
- 🚀 I’m currently learning <img src="https://img.shields.io/static/v1?label=NextJS&message=NextJS&color=lightgrey">.(https://nextjs.org)
+I’m currently learning <img src="https://img.shields.io/static/v1?label=NextJS&message=NextJS&color=lightgrey">.(https://nextjs.org) 🚀 
  
- 📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> 📚
 
 ---
 
