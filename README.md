@@ -14,7 +14,7 @@ I am 25 years old. I am `Developer` with experience in `frontend` but with knowl
 
 I do apps and websites to `make life easier in the world.` 😉
 
-Working at [**Compasso UOL**](https://compassouol.com) as a Software Developer allocated to the client [**Terra Investimentos**](https://www.terrainvestimentos.com.br) as a frontend 💼
+Working at [**Compass UOL**](https://compass.uol) as a Software Developer allocated to the client [**Terra Investimentos**](https://www.terrainvestimentos.com.br) as a frontend 💼
 
 I am very interested in 🤝 collaborating with other people and enabling others to create digital solutions that solve real-world problems. 🌍
 
