@@ -1,7 +1,9 @@
 # 💫 About Me :
-Fullstack Dev with frontend expertise, mainly using ReactJS and  with backend knowledge with expertise in NodeJS and Python.
+Fullstack Developer with Frontend expertise, mainly using ReactJS and  with Backend knowledge with expertise in NodeJS and Python.
 
 Main techniques: HTML, CSS, Javascript, Python, C, C#, C++, Script, NoSQL and SQL Database, among other non-web languages.
+
+Actually, I work at Compass.uol, an company of UOL group as Software Engineer.
 
 I worked as Frontend Developer at the Innovation Center for Education (CIEB) taking care of all (16) frontend applications and performing maintenance on legacy systems. I worked as a Fullstack Developer at an insurance brokerage (Genoa de Seguros), implementing the MVP of a new product for the insurance market. (frontend, backend, database, DevOps).
 
