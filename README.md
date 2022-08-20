@@ -1,5 +1,5 @@
 # 💫 About Me :
-Fullstack Developer with Frontend expertise, mainly using ReactJS and NodeJS.
+Fullstack Developer, with mainly expertise using ReactJS and NodeJS.
 
 Main techniques: HTML, CSS, Javascript, Python, C#, Bash Script, NoSQL and SQL Database, among other non-web languages.
 
@@ -57,12 +57,6 @@ https://tech3-multistep-form.netlify.app
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tech3br&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=tech3br&label=Visitors+Count&color=brightgreen)
