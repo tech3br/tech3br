@@ -1,5 +1,5 @@
 # 💫 About Me :
-Fullstack Developer, with mainly expertise using ReactJS and NodeJS.
+Software Architect and Fullstack Developer.
 
 Main techniques: HTML, CSS, Javascript, Python, C#, Bash Script, NoSQL and SQL Database, among other non-web languages.
 
