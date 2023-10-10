@@ -3,7 +3,7 @@ Software Architect and Fullstack Developer.
 
 Main techniques: HTML, CSS, Javascript, Python, C#, Bash Script, NoSQL and SQL Database, among other non-web languages.
 
-Actually, I work at Compass.uol, an company of UOL group as Software Architect.
+Actually, I work at Compass.uol, an company of UOL group as Software Architect, working for the client Vivo, a large telephone company.
 
 I worked as Frontend Developer at the Innovation Center for Education (CIEB) taking care of all (16) frontend applications and performing maintenance on legacy systems. I worked as a Fullstack Developer at an insurance brokerage (Genoa de Seguros), implementing the MVP of a new product for the insurance market. (frontend, backend, database, DevOps).
 
