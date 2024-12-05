@@ -3,7 +3,7 @@ Software Architect and Fullstack Developer.
 
 Main techniques: HTML, CSS, Javascript, Python, C#, Bash Script, NoSQL and SQL Database, among other non-web languages.
 
-Actually, I work at Compass.uol, an company of UOL group as Software Architect, working for the client Vivo, a large telephone company.
+Actually, I work at Compass.uol, an company of UOL group as Specialist Development and Software Architect, working for the Vivo (Telefônica), a large telecomunications and multichannel hub company.
 
 I worked as Frontend Developer at the Innovation Center for Education (CIEB) taking care of all (16) frontend applications and performing maintenance on legacy systems. I worked as a Fullstack Developer at an insurance brokerage (Genoa de Seguros), implementing the MVP of a new product for the insurance market. (frontend, backend, database, DevOps).
 
@@ -22,26 +22,27 @@ HTML, CSS, Javascript, Python, C, C#, C++ (listed on GitHub: https://github.com/
 Courses:
 - Visual Basic for Application Macros for Complete Excel - Build 7+ Tools on 01/31/2019, taught by João Paulo de Lira at Udemy Academy.
 
-BOOTCAMPS:
+BOOTCAMPS AND COURSES:
 - Omnistack Week 10, given by ROCKETSEAT. (Week where you have a practical project)
 - GoStack 11.0 - Rockseat Course (All NodeJS, ReactJS and
-PostgreSQL Database ecosystem. With several practical projects.)
-- Ignite - Rocketseat paid course.
+PostgreSQL Database Ecosystem. With several practical projects and more.)
+- Ignite - Rocketseat School.
+- Full Cycle / School of Net Courses:
+  * Full Cycle 3.0
+  * Full Cycle 3.0 Bonus
+  * Full Cycle 4.0
 
 I'm improving myself in NextJS, Gatsby, Jest, TDD and Design Patterns, in addition to always keeping up to date with basic IT knowledge.
 
 Some of my projects available:
 
-List of Countries:
+*List of Countries:*
 https://tech3-list-countries.netlify.app
-
-Discord clone:
+*Discord clone:*
 https://discord-tech3-clone.netlify.app/
-
-Tesla Website Clone:
+*Tesla Website Clone:*
 https://tesla-tech3-ui-clone.netlify.app
-
-Multi-Step Registration with ReactJS:
+*Multi-Step Registration with ReactJS:*
 https://tech3-multistep-form.netlify.app
 
 
