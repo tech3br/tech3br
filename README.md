@@ -1,5 +1,5 @@
 # 💫 About Me :
-Software Architect and Fullstack Developer.
+Specialist Development and Software Architect.
 
 Main techniques: HTML, CSS, Javascript, Python, C#, Bash Script, NoSQL and SQL Database, among other non-web languages.
 
