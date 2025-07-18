@@ -1,7 +1,7 @@
 # 💫 About Me :
 Specialist Development and Software Architect.
 
-Main techniques: **HTML**, **CSS**, **Javascript**, **Python**, **Bash Script**, **NoSQL** and **SQL** **Database**, among **other non-web languages**.
+Main techniques: **HTML**+**CSS**+**Javascript**, **React/NextJS**, **NodeJS/NestJS**, **Java w SpringBoot**, **Docker**, **Python (mainly for scripts and linux tools)**, **Bash Script (mainly for scripts and linux tools)**, **NoSQL** and **SQL Database**, among **other non-web languages**.
 
 Actually, i'm study and improve in **Rust Language**.
 
