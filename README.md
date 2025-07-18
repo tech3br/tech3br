@@ -7,9 +7,11 @@ Actually, i'm study and improve in **Rust Language**.
 
 Actually, I work at **Compass.UOL**, an company of **AIR/UOL group** as **Specialist Development and Software Architect**, working for the **Vivo (Telefônica Brasil)**, a large telecomunications and multichannel hub company.
 
-I worked as Frontend Developer at the Innovation Center for Education (CIEB) taking care of all (16) frontend applications and performing maintenance on legacy systems. I worked as a Fullstack Developer at an insurance brokerage (Genoa de Seguros), implementing the MVP of a new product for the insurance market. (frontend, backend, database, DevOps).
+I worked as **Frontend Engineer** at the Innovation Center for Education (CIEB) taking care of **all (16) frontend applications** and **performing maintenance on legacy systems**. 
 
-I worked as a freelancer for 5 years, parallel to my legal career until the moment of making the complete career transition to IT.
+I worked as a **Fullstack Developer** at an insurance brokerage (**Genoa de Seguros**), **implementing the MVP of a new product for the insurance market**. (frontend, backend, database, DevOps).
+
+I worked as a **freelancer for 5 years**, parallel to my legal career until the moment of making the complete career transition to IT (with my personal company).
 
 I worked at Banco do Brasil as a Legal Intership, creating solutions, helping lawyers with legal documents, inserting legal data into the Bank's internal systems and Law Offices and creating solutions in Technology for Workflow improvements: using VBA, Selenium, HTML, DASHBOARDS Excel, Advanced Office Package and Data, Etc.
 
