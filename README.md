@@ -33,18 +33,6 @@ PostgreSQL Database Ecosystem. With several practical projects and more.)
 
 I'm improving myself in JAM Stack Technologies (Front Skils), Backend Web Frameworks (Study More Backend Frameworks of Many Languages), Study many test patterns (TDD, Components, E2E, etc) and Software Architect Design Patterns, in addition to always keeping up to date with basic IT knowledge, **actually using AI to improve my dev/architecture skills**.
 
-Some of my projects available:
-
-*List of Countries:*
-https://tech3-list-countries.netlify.app
-*Discord clone:*
-https://discord-tech3-clone.netlify.app/
-*Tesla Website Clone:*
-https://tesla-tech3-ui-clone.netlify.app
-*Multi-Step Registration with ReactJS:*
-https://tech3-multistep-form.netlify.app
-
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tech3br) 
 
