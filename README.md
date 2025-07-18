@@ -1,7 +1,9 @@
 # 💫 About Me :
 Specialist Development and Software Architect.
 
-Main techniques: HTML, CSS, Javascript, Python, Bash Script, NoSQL and SQL Database, among other non-web languages.
+Main techniques: **HTML**, **CSS**, **Javascript**, **Python**, **Bash Script**, **NoSQL** and **SQL** **Database**, among **other non-web languages**.
+
+Actually, i'm study and improve in **Rust Language**.
 
 Actually, I work at Compass.uol, an company of UOL group as Specialist Development and Software Architect, working for the Vivo (Telefônica), a large telecomunications and multichannel hub company.
 
