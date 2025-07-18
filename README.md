@@ -13,7 +13,7 @@ I worked as a freelancer for 5 years, parallel to my legal career until the mome
 
 I worked at Banco do Brasil as a Legal Intership, creating solutions, helping lawyers with legal documents, inserting legal data into the Bank's internal systems and Law Offices and creating solutions in Technology for Workflow improvements: using VBA, Selenium, HTML, DASHBOARDS Excel, Advanced Office Package and Data, Etc.
 
-I have experience in public companies: National Treasury Attorney, São Paulo Court of Justice (TJSP), working directly in the legal area and also creating IT solutions for workflow improvements, such as DASHBOARDS and automations via Selenium (for automation), Excel and HTML.
+I have experience in public companies: National Treasury Attorney, São Paulo Court of Justice (TJSP), working directly in the legal area and also creating IT solutions for workflow improvements, such as dashboards with VBA and automations via Selenium (for automation) with Python, Excel and HTML.
 
 I worked in a law firm with large clients, reconciling solutions from the legal world with IT solutions.
 
