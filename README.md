@@ -5,7 +5,7 @@ Main techniques: **HTML**, **CSS**, **Javascript**, **Python**, **Bash Script**,
 
 Actually, i'm study and improve in **Rust Language**.
 
-Actually, I work at **Compass.UOL**, an company of **UOL group** as **Specialist Development and Software Architect**, working for the **Vivo (Telefônica Brasil)**, a large telecomunications and multichannel hub company.
+Actually, I work at **Compass.UOL**, an company of **AIR/UOL group** as **Specialist Development and Software Architect**, working for the **Vivo (Telefônica Brasil)**, a large telecomunications and multichannel hub company.
 
 I worked as Frontend Developer at the Innovation Center for Education (CIEB) taking care of all (16) frontend applications and performing maintenance on legacy systems. I worked as a Fullstack Developer at an insurance brokerage (Genoa de Seguros), implementing the MVP of a new product for the insurance market. (frontend, backend, database, DevOps).
 
