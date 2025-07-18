@@ -17,14 +17,8 @@ I have experience in public companies: National Treasury Attorney, São Paulo Co
 
 I worked in a law firm with large clients, reconciling solutions from the legal world with IT solutions.
 
-In addition to my personal projects that I created in technologies:
-
-HTML, CSS, Javascript, Python, C, C#, C++ (listed on GitHub: https://github.com/tech3br).
-
-Courses:
+Courses and Bootcamps:
 - Visual Basic for Application Macros for Complete Excel - Build 7+ Tools on 01/31/2019, taught by João Paulo de Lira at Udemy Academy.
-
-BOOTCAMPS AND COURSES:
 - Omnistack Week 10, given by ROCKETSEAT. (Week where you have a practical project)
 - GoStack 11.0 - Rockseat Course (All NodeJS, ReactJS and
 PostgreSQL Database Ecosystem. With several practical projects and more.)
@@ -33,8 +27,9 @@ PostgreSQL Database Ecosystem. With several practical projects and more.)
   * Full Cycle 3.0
   * Full Cycle 3.0 Bonus
   * Full Cycle 4.0
+ - Google Prompting Essentials Specialization (AI)
 
-I'm improving myself in JAM Stack Technologies, Backend Web Frameworks, Many Test Patterns (TDD, Components, E2E, etc) and Software Architect Design Patterns, in addition to always keeping up to date with basic IT knowledge.
+I'm improving myself in JAM Stack Technologies (Front Skils), Backend Web Frameworks (Study More Backend Frameworks of Many Languages), Study many test patterns (TDD, Components, E2E, etc) and Software Architect Design Patterns, in addition to always keeping up to date with basic IT knowledge, **actually using AI to improve my dev/architecture skills**.
 
 Some of my projects available:
 
